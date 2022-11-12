@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jhenkels
+- 👋 Hi, I’m Jonathan
 
 <!---
 - 👀 I’m interested in ...
