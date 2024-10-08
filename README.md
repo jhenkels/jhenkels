@@ -1,4 +1,4 @@
-👋 Hi, I’m Jonathan
+👋 Hi, I’m Jonathan. I am a Software Tester.
 
 <!---
 - 👀 I’m interested in ...
